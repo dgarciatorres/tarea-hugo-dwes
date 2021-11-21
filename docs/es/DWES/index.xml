@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DWES on Apuntes DAW 2º - dista   ncia</title>
+    <link>http://example.org/es/dwes/</link>
+    <description>Recent content in DWES on Apuntes DAW 2º - dista   ncia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Wed, 10 Nov 2021 22:30:45 +0100</lastBuildDate><atom:link href="http://example.org/es/dwes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tema_1_1</title>
+      <link>http://example.org/es/dwes/tema_1_1/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:37 +0100</pubDate>
+      
+      <guid>http://example.org/es/dwes/tema_1_1/</guid>
+      <description>CONCEPTOS GENERALES Definición de desarrollo WEB Término que define el proceso de creación de un sitio web o una intranet. Para poder llevar a cabo esto se usan tecnologías de software del lado del cliente y del lado del servidor involucrando procesos de bases de datos con el uso del un navegador web para realizar unas tareas o mostrar información.
+Para desarrollar una aplicación o programa
+ Hay que entenderlo muy bién lo que queremos hacer Hay que planificarlo Hay que realizar esa planificación y probarla   Aplicación Web En la ingeniería de software se denomina aplicación web a aquellas herramientas que los usuarios pueden utilizar accediendo a un servidor web a través de internet o de una intranet mediante un navegador.</description>
+    </item>
+    
+    <item>
+      <title>Tema_1_2</title>
+      <link>http://example.org/es/dwes/tema_1_2/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:33 +0100</pubDate>
+      
+      <guid>http://example.org/es/dwes/tema_1_2/</guid>
+      <description>ARQUITECTURA Y TECNOLOGÍA WEB Qué es la arquitectura web La arquitectura web es la jerarquización de la información en un sitio web. Así como en la arquitectura tradicional se trabaja la estructura de una construcción , la arquitectura web trabaja la estructura de una página web y las categorías que la conforman para su optimización de cara al posicionamiento en buscadores.
+Más info  Los componentes de una aplicación web 1.</description>
+    </item>
+    
+    <item>
+      <title>Tema_3</title>
+      <link>http://example.org/es/dwes/tema_3/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:33 +0100</pubDate>
+      
+      <guid>http://example.org/es/dwes/tema_3/</guid>
+      <description>LENGUAJE PHP Qué es php (acrónimo de PHP: Hypertext Preprocessor) Es un lenguaje de código abierto.
+Muy popular (Podríamos pensar en un estándar?), una gran comunidad de soporte en internet que aporta, colabora y soluciona dudas.
+Especialmente adecuado para desarrollo web (Se puede usar como lenguaje de escritorio, pero no es su principal propósito).
+Actualmente está la versión 7.4.3 actualizada el 23/9/2021 es considerada la versión estable , estando ya en testing la versión 8.</description>
+    </item>
+    
+    <item>
+      <title>Descargas</title>
+      <link>http://example.org/es/dwes/descargas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/dwes/descargas/</guid>
+      <description>  Related files   T1-1-introduccion_desarrrollo_web.pdf (1 MB)   T1-2-arquitecturas_tecnologias.pdf (265 KB)   T1-3-Usuario_ManuelRomero_ProgramacionWeb_instalacion - WikiEducator.pdf (1 MB)    </description>
+    </item>
+    
+    <item>
+      <title>Plantilla personal</title>
+      <link>http://example.org/es/dwes/plantilla-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/es/dwes/plantilla-1/</guid>
+      <description>Uso de una plantilla En esta página veremos el uso de una plantilla</description>
+    </item>
+    
+  </channel>
+</rss>

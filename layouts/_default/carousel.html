@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+<!-- SECCION PARA CARGAR LAS IMÁGENES-->
+<div id="mic" class="carousel slide " data-ride="carousel">
+    <div class="carousel-inner">
+        {{ range $elem_index, $elem_val := .Site.Data.carousel }}
+        <div class='carousel-item {{ if eq $elem_index "1" }} active {{ end }}'>
+            <img class="d-block  w-100" src="{{ .image  | relURL }}"  alt="{{ .name }}">
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+
+<footer class="footline">
+	{{with .Params.LastModifierDisplayName}}
+	    <i class='fas fa-user'></i> <a href="mailto:{{ $.Params.LastModifierEmail }}">{{ . }}</a> {{with $.Date}} <i class='fas fa-calendar'></i> {{ .Format "02/01/2006" }}{{end}}
+	    </div>
+	{{end}}
+</footer>
+
+{{ partial "footer.html" . }}

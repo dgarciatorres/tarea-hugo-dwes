@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DWES on DAW notes 2º at a distance</title>
+    <link>http://example.org/en/dwes/</link>
+    <description>Recent content in DWES on DAW notes 2º at a distance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Wed, 10 Nov 2021 22:30:45 +0100</lastBuildDate><atom:link href="http://example.org/en/dwes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theme_1_1</title>
+      <link>http://example.org/en/dwes/tema_1_1/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:37 +0100</pubDate>
+      
+      <guid>http://example.org/en/dwes/tema_1_1/</guid>
+      <description>GENERAL CONCEPTS Definition of WEB development Term that defines the process of creating a website or an intranet.
+In order to do this, client-side and server-side software technologies are used involving database processes with the use of a web browser to perform tasks or display information.
+To develop an application or program
+ You have to understand very well what you want to do You have to plan it You have to do that planning and test it   Web Application In software engineering, a web application is defined as those tools that users can use by accessing a web server through the Internet or an intranet through a browser.</description>
+    </item>
+    
+    <item>
+      <title>Theme_1_2</title>
+      <link>http://example.org/en/dwes/tema_1_2/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:33 +0100</pubDate>
+      
+      <guid>http://example.org/en/dwes/tema_1_2/</guid>
+      <description>ARCHITECTURE AND WEB TECHNOLOGY What is web architecture The ** web architecture ** is the hierarchy of information on a ** website **. Just as traditional architecture works on the structure of a construction, web architecture works on the structure of a web page and the categories that make it up for optimization for search engine positioning.
+Más info  The components of a web application 1. Web server A web server is a software (program) in charge of receiving a request over the network; In a tcp / ip type network that is the one we use on the internet, the request is received using the http protocol and responding to said request.</description>
+    </item>
+    
+    <item>
+      <title>Theme_3</title>
+      <link>http://example.org/en/dwes/tema_3/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:33 +0100</pubDate>
+      
+      <guid>http://example.org/en/dwes/tema_3/</guid>
+      <description>LANGUAGE PHP What is php (PHP acronym: Hypertext Preprocessor) It is an open source language.
+Very popular (could we think of a standard?), A large support community on the internet that contributes, collaborates and solves doubts.
+Especially suitable for web development (It can be used as a desktop language, but it is not its main purpose).
+Currently version 7.4.3 is updated on 9/23/2021, it is considered the stable version, and version 8.</description>
+    </item>
+    
+  </channel>
+</rss>

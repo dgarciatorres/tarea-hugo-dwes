@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAW note 2º à distance</title>
+    <link>http://example.org/fr/</link>
+    <description>Recent content on DAW note 2º à distance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Wed, 10 Nov 2021 23:26:37 +0100</lastBuildDate><atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theme_1_1</title>
+      <link>http://example.org/fr/dwes/tema_1_1/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:37 +0100</pubDate>
+      
+      <guid>http://example.org/fr/dwes/tema_1_1/</guid>
+      <description>CONCEPTS GÉNÉRAUX Définition du développement WEB Terme qui définit le processus de création d&amp;rsquo;un site Web ou d&amp;rsquo;un intranet.
+Pour ce faire, des technologies logicielles côté client et côté serveur sont utilisées, impliquant des processus de base de données avec l&amp;rsquo;utilisation d&amp;rsquo;un navigateur Web pour effectuer des tâches ou afficher des informations.
+Pour développer une application ou un programme
+ Vous devez très bien comprendre ce que vous voulez faire Vous devez le planifier Vous devez faire cette planification et la tester   Application Web En génie logiciel, une application Web est définie comme les outils que les utilisateurs peuvent utiliser en accédant à un serveur Web via Internet ou un intranet via un navigateur.</description>
+    </item>
+    
+    <item>
+      <title>Theme_1_2</title>
+      <link>http://example.org/fr/dwes/tema_1_2/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:33 +0100</pubDate>
+      
+      <guid>http://example.org/fr/dwes/tema_1_2/</guid>
+      <description>ARCHITECTURE ET TECHNOLOGIE WEB Qu&amp;rsquo;est-ce que l&amp;rsquo;architecture Web L&#39;architecture web est la hiérarchie des informations sur un ** site web**. Tout comme l&amp;rsquo;architecture traditionnelle travaille sur la structure d&amp;rsquo;une construction, l&amp;rsquo;architecture Web travaille sur la structure d&amp;rsquo;une page Web et les catégories qui la composent pour l&amp;rsquo;optimisation du positionnement dans les moteurs de recherche.
+Más info  Les composants d&amp;rsquo;une application web 1. Serveur Web Un serveur web est un logiciel (programme) chargé de recevoir une requête sur le réseau ; Dans un réseau de type tcp/ip que l&amp;rsquo;on utilise sur internet, la requête est reçue en utilisant le protocole http et répondant à ladite requête.</description>
+    </item>
+    
+    <item>
+      <title>Theme_3</title>
+      <link>http://example.org/fr/dwes/tema_3/</link>
+      <pubDate>Wed, 10 Nov 2021 23:26:33 +0100</pubDate>
+      
+      <guid>http://example.org/fr/dwes/tema_3/</guid>
+      <description>LANGUE PHP Qu&amp;rsquo;est-ce que php (acronyme PHP : Hypertext Preprocessor) C&amp;rsquo;est un langage open source.
+Très populaire (pourrions-nous penser à une norme ?), Une large communauté de support sur internet qui contribue, collabore et résout les doutes.
+Particulièrement adapté au développement Web (il peut être utilisé comme langage de bureau, mais ce n&amp;rsquo;est pas son objectif principal).
+Actuellement, la version 7.4.3 est mise à jour le 23/09/2021, elle est considérée comme la version stable, et la version 8.</description>
+    </item>
+    
+  </channel>
+</rss>

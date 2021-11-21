@@ -1,0 +1,70 @@
+baseURL = 'https://dgarciatorres.github.io/docs/'
+#baseURL = 'http://example.org/'
+languageCode = 'es-ES'
+title = 'Apuntes DAW 2º - distancia'
+theme = 'hugo-theme-learn'
+
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir= true
+
+#definición de diferentes idiomas
+[Languages]
+    [Languages.es]
+        title = 'Apuntes DAW 2º - dista   ncia'
+        weight = 1
+        contentDir = 'content/es'
+        languageName = 'Español'
+        landingPageName = "Apuntes DAW 2º a distancia"
+
+    [Languages.en]
+        title = 'DAW notes 2º at a distance'
+        weight = 2
+        languageName = 'English'
+        contentDir = 'content/en'
+        landingPageName = "DAW notes 2º at a distance"
+        
+    [Languages.fr]
+        title = 'DAW note 2º à distance'
+        weight = 3
+        languageName = 'Français'
+        contentDir = 'content/fr'
+        landingPageName = "DAW note 2º à distance"
+
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+# Establecer estilos por defecto
+ themeVariant = "personal"
+
+# Author of the site, will be used in meta information
+author = "Diego García Torres"
+
+# Description of the site, will be used in meta information
+description = "Este sitio es un repositorio de los apuntes del curso 2 DAW a distancia"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-php'></i> PHP"
+identifier = "php"
+url = "https://www.php.net/manual/es/intro-whatis.php"
+weight = 10
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-js'></i> JavaScript"
+identifier = "js"
+url = "https://lenguajejs.com/"
+weight = 11
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "git"
+url = "https://github.com/matcornic/hugo-theme-learn"
+weight = 12
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 14
